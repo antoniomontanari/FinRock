@@ -1,2 +1,2 @@
-# FinRock
+# FindRock
 Power the Music.
